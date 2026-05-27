@@ -1,3 +1,5 @@
+M3u
+#EXTM3U
 #EXTINF:-1  group-title="Польша"  tvg-id="epg1:TVP HD PL"  tvg-logo="http://stb.y666tv.cc/images/logo_chanel/TVP HD PL.png"   CUID="1067" number="925" tvg-name="epg1:TVP HD PL" arc-timeshift="0" arc-time="0" catchup="shift" catchup-days="0",TVP HD PL
 http://ost.y666tv.cc/bc3RiX3Rva2VuXSIsImwiOiI2YTA5OGJiMyIsInAiOiI2YTA5OGJiMzZhNTY1NmM0IiwiYyI6IjEwNjciLCJ0IjoiOTA1OGVlYzNhNWZkNjM2ZDNjZTc2Zjc1YjNkMzRhYzYiLCJkIjoiNDg5OTA5IiwiciI6IjUwMTg3NCIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovLzE5NS4yMTEuMjcuMTUwLzgzMDMvdmlkZW8ubTN1OD90b2tlbj1/video.m3u8
 #EXTINF:-1  group-title="Польша"  tvg-id="epg1:TVP1 PL"  tvg-logo="http://stb.y666tv.cc/images/logo_chanel/TVP 1 HD PL.png"   CUID="1068" number="926" tvg-name="epg1:TVP1 PL" arc-timeshift="0" arc-time="0" catchup="shift" catchup-days="0",TVP 1 HD PL
